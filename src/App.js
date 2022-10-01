@@ -23,9 +23,6 @@ function App() {
             <Route path="event" element={<Event />} />
             {/* </EventDetails.Provider> */}
             {/* <Route path="teams" element={<Teams />}>
-             <Route path=":teamId" element={<Team />} />
-             <Route path="new" element={<NewTeamForm />} />
-             <Route index element={<LeagueStandings />} />
            </Route> */}
             {/* </Route> */}
           </Routes>
